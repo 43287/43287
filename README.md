@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## About Me
+Fall into the well 
+- ID：[pRism]/[HeavenD]/[bubble]
+- Doing：[Software reverse engineering]
+- Favorite：[Code,Hacker,Game]
 <!--
 **43287/43287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
